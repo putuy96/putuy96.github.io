@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.putuy96.twa",
+        "sha256_cert_fingerprints": ["A9:66:D6:86:8D:07:B5:B2:88:17:1F:B2:EE:9A:3B:D6:34:44:40:B8:EC:45:D0:80:3B:F9:8D:49:53:E2:70:CD"]
+      }
+    }]
